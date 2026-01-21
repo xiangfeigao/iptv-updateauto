@@ -23,10 +23,10 @@ twitter:
 social:
   name: vbskycn
   links:
-    - https://github.com/vbskycn/iptv
+    - https://github.com/xiangfeigao/iptv-updateauto/
 
 # 添加 Google AdSense 配置
-google_adsense: ca-pub-6941806026814791
+google_adsense: 
 
 collections:
   pages:
